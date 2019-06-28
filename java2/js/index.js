@@ -39,9 +39,3 @@ else if(isNaN(secondNum)){
 }
 
 
-if (firstNum < secondNum){
-    console.log("The first number is smaller with the value of ", firstNum)
-}
-else {
-    console.log("The second number is smaller with value of ", secondNum)
-}
