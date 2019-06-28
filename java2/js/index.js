@@ -37,3 +37,11 @@ else if(isNaN(firstNum)){
 else if(isNaN(secondNum)){
     console.error("The second input is not a number")
 }
+
+
+if (firstNum < secondNum){
+    console.log("The first number is smaller with the value of ", firstNum)
+}
+else {
+    console.log("The second number is smaller with value of ", secondNum)
+}
